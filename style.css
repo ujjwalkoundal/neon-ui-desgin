@@ -211,3 +211,14 @@ body {
   font-weight: 600;
   border: none;
 }
+
+.social-media-footer {
+  position: absolute;
+  right: 30px;
+  bottom: 0;
+}
+.social-media-footer .social-media-icon {
+  width: 25px;
+  height: 25px;
+  margin: 0px 10px 10px 10px;
+}
